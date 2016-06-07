@@ -1,12 +1,13 @@
 ---
 layout: post_layout
-title: 开始篇
+title: Project Description
 time: 2016年06月05日 Sunday
-location: Xiangting Fan
+location: Dublin
 pulished: true
 excerpt_separator: "```"
 ---
 
+By Xiangting Fan
 我的第一篇 github 博客, 本博客使用 [jekyll](http://jekyll.bootcss.com/) + [bootstrap](http://v3.bootcss.com) 搭建!
 
 感谢 [github](https://github.com) 提供的 Github Pages 功能!
