@@ -4,6 +4,7 @@ title: 开始篇
 time: 2016年06月05日 Sunday
 location: Dublin
 pulished: true
+Author: Xiangting Fan
 excerpt_separator: "```"
 ---
 
