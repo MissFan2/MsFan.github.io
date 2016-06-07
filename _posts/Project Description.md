@@ -2,7 +2,7 @@
 layout: post_layout
 title: Project Description
 time: 2016年06月05日 Sunday
-location: Dublin
+author: Dublin
 pulished: true
 excerpt_separator: "```"
 ---
