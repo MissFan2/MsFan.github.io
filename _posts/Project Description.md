@@ -2,9 +2,8 @@
 layout: post_layout
 title: 开始篇
 time: 2016年06月05日 Sunday
-location: Dublin
+location: Xiangting Fan
 pulished: true
-Author: Xiangting Fan
 excerpt_separator: "```"
 ---
 
