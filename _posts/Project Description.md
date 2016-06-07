@@ -18,8 +18,6 @@ Nowadays, people’s lifestyles are influenced by globalization. People not only
 
 * A referendum is being held on Thursday, 23 June to decide whether Britain should leave or remain in the European Union. A British may want to know how European or people in other countries think about it.
 
-![use case](https://github.com/ucd-nlmsc-teamproject/Transart/blob/master/Materials/use%20case.png?raw=true)
-
 
 ### Data Sources
 UK：  
