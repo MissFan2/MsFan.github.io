@@ -3,7 +3,6 @@ layout: post_layout
 title: Project Description
 time: Monday 30/05/2016
 location: Dublin
-Arthor: Jiandong Wang
 pulished: true
 excerpt_separator: "##"
 ---
@@ -35,7 +34,6 @@ France：
 * AFP: https://www.afp.com  
 
 ### Technologies
-![Technologies](https://github.com/ucd-nlmsc-teamproject/Transart/blob/master/Materials/technologies.PNG?raw=true)
 
 ### Authors and Contributors
 Group Transart: Fan Xiangting; He Ping; Song Youtong; Wang Jiandong; Zhao Zeyu.
